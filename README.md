@@ -42,9 +42,3 @@ A pragmatic selection of tools optimized for speed and scalability.
 
 ### 🔭 Current Focus
 Building Scalable SaaS & Cloud Solutions integrating **FastAPI**, **Supabase**, and **AWS**.
-
-<div align="center">
-<a href="https://github.com/AmiQT">
-  <img src="https://hits.se.ey.io/api/section/AmiQT/header?icon=github&icon_color=white&color=7957d5" alt="Visitor Count" />
-</a>
-</div>
