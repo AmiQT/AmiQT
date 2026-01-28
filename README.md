@@ -1,7 +1,15 @@
-Hi everyone, my name is Ami, a junior in the IT World. I'm interested in prompt engineering because I believe AI is a powerful tool for everyone, and yeah I am a Viber coder but with a humble personality and dedication to solving problems instead of asking, asking, and asking.
+# Hi there, I'm Ami! 👋
 
-Most of my side project is developed by using an AI tool, with iterations over and over to improve it till complete as you can see in my repo. AI will not replace human my comrade, but it will be your saviour one day. Just don't believe any company that fired you for an AI reason, they don't actually know how to handle technology. 
+### 👨‍💻 Junior IT Student | AI-Augmented Developer
 
-I like cats too, may my life always be blessed with a munchkin breed kitten.
+I don't just write code; I engineer solutions. I believe AI is the ultimate productivity booster, and I use it to iterate faster, debug smarter, and build complete ecosystems—from Mobile to Cloud.
 
-Thank you for reading, all the best everyone.
+**My Philosophy:**
+* 🤖 **AI is the engine, I am the steering wheel.** Leveraging Gen AI to accelerate Fullstack development (Flutter & Python).
+* 🚀 **Problem Solver.** I prefer digging deep into documentation and refining logic rather than waiting for answers.
+* 🐈 **Cat Enthusiast.** Manifesting a Munchkin kitten in my future.
+
+**Current Focus:**
+Building Scalable SaaS & Cloud Solutions (AWS, FastAPI, Supabase).
+
+> "AI will not replace humans, but humans who use AI will replace those who don't."
