@@ -16,13 +16,6 @@
         <i>"AI will not replace humans, but humans who use AI will replace those who don't."</i>
       </p>
     </td>
-    <td width="40%" valign="top" style="border: none;">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AmiQT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="AmiQT Github Stats" style="width: 100%;" />
-        <br/><br/>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiQT&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" style="width: 100%;" />
-      </div>
-    </td>
   </tr>
 </table>
 
