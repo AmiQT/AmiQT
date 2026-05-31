@@ -59,11 +59,6 @@ Architecting **Infrastructure as Code (IaC)**, **Zero-Touch Provisioning**, and 
 * **Tech:** Go (1.26+), Thread-Safe LRU Cache, Singleflight, Docker (Multi-stage Alpine ~15MB).
 * **Engineering Context:** Engineered custom Go worker-pools, Stale-While-Revalidate (SWR) mechanics, and robust rate limiting to ensure zero-downtime reliability under heavy load.
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer" width="25" height="25" valign="middle" /> DayOne Deploy | Enterprise Zero-Touch Provisioning Automation**
-* **Impact:** Automated staging of **6GB+ software payloads** directly to local SSDs, preventing deployment failures from network drops or BitLocker lockouts.
-* **Tech:** C# 13, .NET 10 (Self-Contained), Windows Forms, WMI, PowerShell.
-* **Engineering Context:** Designed a resilient state machine using RunOnce registry keys to survive forced reboots. Implemented strict privilege isolation and programmed idempotent logic.
-
 **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" valign="middle" /> Central-Infra & Gopher-Ops | Local Cloud Sandbox & AI ChatOps**
 * **Impact:** Architected a multi-tier Kubernetes infrastructure locally and built a Secure AI SRE Telegram bot to manage Docker/metrics via natural language.
 * **Tech:** Terraform, Kubernetes (k3d), Helm, Gemini API, GitHub Actions.
